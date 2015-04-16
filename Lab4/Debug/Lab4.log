@@ -1,0 +1,13 @@
+﻿  main.cpp
+e:\rt3d\rt3d project\lab4\main.cpp(12): warning C4005: '_CRT_SECURE_NO_DEPRECATE' : macro redefinition
+          command-line arguments :  see previous definition of '_CRT_SECURE_NO_DEPRECATE'
+e:\rt3d\rt3d project\lab4\md2model.h(40): warning C4005: 'WIN32' : macro redefinition
+          command-line arguments :  see previous definition of 'WIN32'
+e:\rt3d\rt3d project\lab4\main.cpp(269): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+e:\rt3d\rt3d project\lab4\main.cpp(276): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+e:\rt3d\rt3d project\lab4\main.cpp(281): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+e:\rt3d\rt3d project\lab4\main.cpp(286): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+e:\rt3d\rt3d project\lab4\main.cpp(427): warning C4305: 'argument' : truncation from 'double' to 'float'
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Lab4.vcxproj -> E:\RT3D\RT3D Project\Debug\RT3D Project.exe
